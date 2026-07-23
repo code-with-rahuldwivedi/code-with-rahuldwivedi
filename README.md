@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://personal-portfolio-ashy-psi-22.vercel.app/">
+<a href="https://personal-portfolio-two-rust-86.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
