@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linktr.ee/simplified_learner">
+<a href="https://personal-portfolio-ashy-psi-22.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
