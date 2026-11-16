@@ -40,7 +40,7 @@
 
 <img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-🎓 BSc Graduate passionate about Java Backend Development and scalable software engineering.
+🎓 MCA Graduate passionate about Java Backend Development and scalable software engineering.
 
 💡 I enjoy building:
 - ☕ Java Applications
